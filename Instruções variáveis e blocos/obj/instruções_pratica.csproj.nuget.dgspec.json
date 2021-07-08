@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica\\instruções_pratica.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica\\instruções_pratica.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica\\instruções_pratica.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica.csproj",
         "projectName": "instruções_pratica",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica\\instruções_pratica.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
