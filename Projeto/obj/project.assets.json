@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica.csproj",
-      "projectName": "instruções_pratica",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\instruções_pratica.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Teste\\Teste.csproj",
+      "projectName": "Teste",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Teste\\Teste.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Instruções variáveis e blocos\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\Teste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

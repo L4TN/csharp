@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/instruções_pratica.csproj",
+                "${workspaceFolder}/Estrutura de Dados/EstruturaDoPrograma.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/instruções_pratica.csproj",
+                "${workspaceFolder}/Estrutura de Dados/EstruturaDoPrograma.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/instruções_pratica.csproj",
+                "${workspaceFolder}/Estrutura de Dados/EstruturaDoPrograma.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
