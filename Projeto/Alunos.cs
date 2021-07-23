@@ -1,6 +1,6 @@
 namespace Projeto
 {
-    public struct Aluno
+    public class Aluno
     {
         public string Nome { get; set; }
 

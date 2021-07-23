@@ -49,14 +49,14 @@ namespace Projeto
                         break;
 
                     case "3":
-                        var notatotal = 0;
+                        decimal notatotal = 0;
                         var nrAlunos= 0;
                         for(int i= 0; i<alunos.Length;i++)
                             if (string.IsNullOrEmpty(alunos[i].Nome))
-                                notatotal = notatotal + alunos[i].Nota;
+                                notatotal = notatotal + (decimal)alunos[i].Nota;
                                 nrAlunos++;
 
-
+/*
                         var mediaGeral = notatotal/nrAlunos;
                         Conceito conceitoGeral;
                         if(mediaGeral <2)
@@ -83,7 +83,7 @@ namespace Projeto
                         
 
                         Console.WriteLine($"MÉDIA GERAL: {mediaGeral} - CONCEITO: {conceitoGeral}");
-
+*/
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();

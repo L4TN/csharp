@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\bin\Debug\net5.0\Desafios.exe
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\bin\Debug\net5.0\Desafios.deps.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\bin\Debug\net5.0\Desafios.runtimeconfig.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\bin\Debug\net5.0\Desafios.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\bin\Debug\net5.0\Desafios.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\bin\Debug\net5.0\ref\Desafios.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\bin\Debug\net5.0\Desafios.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\obj\Debug\net5.0\Desafios.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\obj\Debug\net5.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\obj\Debug\net5.0\Desafios.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\obj\Debug\net5.0\Desafios.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\obj\Debug\net5.0\Desafios.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\obj\Debug\net5.0\Desafios.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\obj\Debug\net5.0\ref\Desafios.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\obj\Debug\net5.0\Desafios.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\Desafios\obj\Debug\net5.0\Desafios.genruntimeconfig.cache
