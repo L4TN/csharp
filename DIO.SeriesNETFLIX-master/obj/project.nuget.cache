@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sGZrRt76vr1XhZWFg6aGtbKKQIx/q3qcklKX5CloFty15Q0Y/h7vb8uom908EqtpHlzxcpm8RI9EKDZZ6BS0Tg==",
+  "dgSpecHash": "bx4+z/EEfl/ydFJRPEQycS/KpT6+Su/JuD8UL7n+V/VsyxTPlCvT2BtMMAVuZjF4oXBfocp07UgzePTbpK0cUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\DIO.NET5-master\\DIO.SeriesNETFLIX-master\\DIO.Series.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",

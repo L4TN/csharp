@@ -24,3 +24,16 @@ C:\Users\Administrator\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3
 C:\Users\Administrator\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.dll
 C:\Users\Administrator\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.pdb
 C:\Users\Administrator\Desktop\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\DIO.SeriesNETFLIX-master\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
