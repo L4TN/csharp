@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\obj\Debug\net5.0\Teste.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\obj\Debug\net5.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\obj\Debug\net5.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\obj\Debug\net5.0\Teste.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\obj\Debug\net5.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\bin\Debug\net5.0\Teste.exe
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\bin\Debug\net5.0\Teste.deps.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\bin\Debug\net5.0\Teste.runtimeconfig.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\bin\Debug\net5.0\Teste.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\bin\Debug\net5.0\Teste.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\bin\Debug\net5.0\ref\Teste.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\bin\Debug\net5.0\Teste.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\obj\Debug\net5.0\Teste.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\obj\Debug\net5.0\ref\Teste.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\obj\Debug\net5.0\Teste.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\Projeto\obj\Debug\net5.0\Teste.genruntimeconfig.cache

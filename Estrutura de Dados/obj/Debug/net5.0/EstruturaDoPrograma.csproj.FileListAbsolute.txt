@@ -1,0 +1,32 @@
+C:\Users\Administrator\Desktop\DIO.NET5-master\obj\Debug\net5.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DIO.NET5-master\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DIO.NET5-master\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\Users\Administrator\Desktop\DIO.NET5-master\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\obj\Debug\net5.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\Administrator\Desktop\DIO.NET5-master\Estrutura de Dados\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache

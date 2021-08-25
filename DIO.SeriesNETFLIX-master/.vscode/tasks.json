@@ -7,11 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-<<<<<<< HEAD
-                "${workspaceFolder}/Exercícios/Exercícios.csproj",
-=======
-                "${workspaceFolder}/Estrutura de Dados/EstruturaDoPrograma.csproj",
->>>>>>> 94beb9e0cc8ee570a935e5e225cfc08ebf49c824
+                "${workspaceFolder}/DIO.Series.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -23,11 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-<<<<<<< HEAD
-                "${workspaceFolder}/Exercícios/Exercícios.csproj",
-=======
-                "${workspaceFolder}/Estrutura de Dados/EstruturaDoPrograma.csproj",
->>>>>>> 94beb9e0cc8ee570a935e5e225cfc08ebf49c824
+                "${workspaceFolder}/DIO.Series.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -40,11 +32,7 @@
             "args": [
                 "watch",
                 "run",
-<<<<<<< HEAD
-                "${workspaceFolder}/Exercícios/Exercícios.csproj",
-=======
-                "${workspaceFolder}/Estrutura de Dados/EstruturaDoPrograma.csproj",
->>>>>>> 94beb9e0cc8ee570a935e5e225cfc08ebf49c824
+                "${workspaceFolder}/DIO.Series.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

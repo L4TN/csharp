@@ -10,15 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-<<<<<<< HEAD
-            "program": "${workspaceFolder}/Exercícios/bin/Debug/net5.0/Exercícios.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/EstruturaDoPrograma.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Exercícios",
-=======
-            "program": "${workspaceFolder}/Estrutura de Dados/bin/Debug/net5.0/EstruturaDoPrograma.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/Estrutura de Dados",
->>>>>>> 94beb9e0cc8ee570a935e5e225cfc08ebf49c824
+            "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
